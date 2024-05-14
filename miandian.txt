@@ -14,10 +14,10 @@ proxies:
     udp: true
   - name: 缅甸02
     type: socks5
-    server: 106.75.152.119
-    port: "1001"
-    username: 9db7f5cd-afddfbf9-6e7686
-    password: wifi-mm---nay+pyi+taw
+    server: 34.141.138.189
+    port: "9000"
+    username: 9db7f5cd-afddfbf9-rand
+    password: wifi-mm--yangon-
     udp: true
   - name: 缅甸03
     type: socks5
