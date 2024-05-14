@@ -7,10 +7,10 @@ external-controller: 127.0.0.1:9090
 proxies:
   - name: 缅甸01
     type: socks5
-    server: 34.141.138.189
+    server: 34.141.129.232
     port: "9000"
-    username: 9db7f5cd-afddfbf9-044c32
-    password: wifi-mm--yangon-
+    username: 9db7f5cd-afddfbf9-020e3e
+    password: mobile-mm--shan+state-
     udp: true
   - name: 缅甸02
     type: socks5
