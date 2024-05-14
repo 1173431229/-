@@ -9,15 +9,15 @@ proxies:
     type: socks5
     server: 34.141.219.7
     port: "9000"
-    username: 9db7f5cd-afddfbf9-a10175
-    password: wifi-mm--yangon-
+    username: 9db7f5cd-afddfbf9-48cbfd
+    password: wifi-mm---
     udp: true
   - name: 缅甸02
     type: socks5
     server: 34.141.138.189
     port: "9000"
-    username: 9db7f5cd-afddfbf9-f07642
-    password: wifi-mm--magway+region-
+    username: 9db7f5cd-afddfbf9-e50679
+    password: wifi-mm---
     udp: true
   - name: 缅甸03
     type: socks5
