@@ -17,7 +17,7 @@ proxies:
     server: 34.141.219.7
     port: "9000"
     username: 9db7f5cd-afddfbf9-ed2840
-    password: wifi-mm---nay+pyi+taw
+    password: wifi-mm--yangon-
     udp: true
   - name: 缅甸03
     type: socks5
